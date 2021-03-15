@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me mail me at aforarpitkumar@gmail.com
+- 📫 How to reach me ? Ans - dm me at aforarpitkumar@gmail.com
 
 <!---
 aforarpitkumar/aforarpitkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
