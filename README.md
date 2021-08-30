@@ -1,3 +1,5 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aforarpitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="aforarpitkumar" /> </p>
 - 👋 Hi, I’m @aforarpitkumar
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning ...
