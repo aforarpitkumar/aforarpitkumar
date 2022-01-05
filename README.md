@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/73133055/126062539-e6442e34-a685-4d34-b7d5-49befa0444e6.gif" width="300">
+<img src="https://user-images.githubusercontent.com/73133055/148241123-db0632dd-71d4-45e6-b3c6-679a4e313b6f.gif" width="800">
 
 - 👋 Hi, I’m @aforarpitkumar
 - 👀 I’m interested in Game development
