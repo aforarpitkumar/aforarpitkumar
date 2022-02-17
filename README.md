@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73133055/148241123-db0632dd-71d4-45e6-b3c6-679a4e313b6f.gif" width="451">
  
-- 👋 Hi, I’m @aforarpitkumar
+- 👋 Hi, I’m @aforarpitkumar 
 - 👀 I’m interested in Game development    
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on unity
