@@ -2,7 +2,7 @@
  
 - 👋 Hi, I’m @aforarpitkumar 
 - 👀 I’m interested in Game development    
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me ? Ans - dm me at aforarpitkumar@gmail.com
 
