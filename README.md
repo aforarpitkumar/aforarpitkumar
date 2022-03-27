@@ -3,8 +3,12 @@
 - 👋 Hi, I’m @aforarpitkumar     
 - 👀 I’m interested in Game development      
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me ? Ans - dm me at aforarpitkumar@gmail.com 
+- 💞️ I’m looking to collaborate on Unity/Webdevelopment
+- I love to me friends who are from coding background.
+- 📫 How to reach me ? 
+- Ans - dm me at aforarpitkumar@gmail.com or best is to send me message request on Instgram (with the subject "Hello Arpit I found you from GitHub" )
+- Instagram Link -> https://www.instagram.com/arpit_kumar__21/
+- I hope that will work  
 
 
 <!---
