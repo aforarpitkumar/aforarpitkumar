@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73133055/148241123-db0632dd-71d4-45e6-b3c6-679a4e313b6f.gif" width="451">
   
-- 👋 Hi, I’m @aforarpitkumar     
+- 👋 Hi, I’m Arpit Kumar ("* Your friendly Neighborhood Ironman just kidding 😁*"     
 - 👀 I’m interested in Game development      
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on Unity/Webdevelopment
+- 💞️ I’m looking to collaborate on Unity / Web development
 - 📫 How to reach me ? 
-- Ans - Best is to send me message request on Instagram (with the subject "Hello Arpit I found you from GitHub" )
+- Ans - Best is to send me message request on Instagram ( with the subject "Hello Arpit I found you from GitHub" )
 - I love to make friends who are from coding background.
 - Instagram Link -> https://www.instagram.com/arpit_kumar__21/
 - I hope that will work  
